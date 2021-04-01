@@ -15,5 +15,5 @@ $ yarn ts ./hello.ts
 $ npm run ts ./hello.ts
 ```
 
-# LICENSE
+## LICENSE
 MIT
